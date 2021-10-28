@@ -12,3 +12,6 @@ In the next 3 months, this potential agent has to undergo a 7 day training at th
 
 **The problem - Who are the best agents?**
  As is obvious in the above process, there is a significant investment which FinMan makes in identifying, training and recruiting these agents. However, there are a set of agents who do not bring in the expected resultant business. 
+
+<b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>:
+- [Customer Churn Prediction Model.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Customer-Churn-Prediction-Model-with-XGBoost/blob/master/Customer%20Churn%20Prediction%20Model.ipynb).
