@@ -11,7 +11,9 @@ The purpose of this project is to create a predictive model to identify the best
 
 
 ## Power BI Dashboard
-The Sales Dashboard for Customer Segmentation can be found
+The Overview Dashboard and the Applicant Details Dashboard for FinMan Agent Recruitment.<br>
+
+
 
 ## Tools and Technologies used
 The tools used in this project include:
