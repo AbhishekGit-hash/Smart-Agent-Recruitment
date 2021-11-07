@@ -12,8 +12,8 @@ The purpose of this project is to create a predictive model to identify the best
 
 ## Power BI Dashboard
 The Overview Dashboard and the Applicant Details Dashboard for FinMan Agent Recruitment.<br><br>
-<img src="dashboard%20images/Overview%20Dashboard.PNG" height="500" align="middle"><br>
-<img src="dashboard%20images/Applicant%20Details%20Dashboard.PNG" height="500" align="middle"><br>
+<img src="dashboard%20images/Overview%20Dashboard.PNG" height="450" align="middle"><br><br>
+<img src="dashboard%20images/Applicant%20Details%20Dashboard.PNG" height="450" align="middle"><br>
 
 
 ## Tools and Technologies used
