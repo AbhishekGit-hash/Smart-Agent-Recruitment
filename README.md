@@ -105,7 +105,7 @@ In the **LightGBM** model, the top 5 features of importance are : **App_Order_pe
 ## :gear: Tools and Technologies used
 The tools used in this project include:
 - __Python__ - This was needed to conduct Data Quality Assessment, Data Cleaning processes, Exploratory Data Analysis of the datasets and to gain useful insights, feature engineering and building the model.
-- __Power BI__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, dashboard%20images to come up with a <b>Dashboard to capture the past trends in Agent Recruitment</b>.
+- __Power BI__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Dashboard to capture the past trends in Agent Recruitment</b>.
 
 ## :black_nib: Authors
 - Abhishek Chowdhury - [Github Profile](https://github.com/AbhishekGit-hash)
