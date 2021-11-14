@@ -19,7 +19,7 @@ The Overview Dashboard and the Applicant Details Dashboard for FinMan Agent Recr
 ## Tools and Technologies used
 The tools used in this project include:
 - __Python__ - This was needed to conduct Data Quality Assessment, Data Cleaning processes, Exploratory Data Analysis of the datasets and to gain useful insights, feature engineering and building the model.
-- __Power BI__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Sales Dashboard for Customer Segmenatation</b> for the automobile bike company. 
+- __Power BI__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Dashboard to capture the past trends in Agent Recruitment</b>.
 
 
 ## Built With
