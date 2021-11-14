@@ -2,7 +2,7 @@
 
 ## :memo: Description
 
-- This is a classification machine learning problem  to identify the best agents / applicants, for a Financial Distribution company, who will be able to source business for FinMan within 3 months post the 7 day coorporate training.
+- This is a classification machine learning problem  to identify the best agents / applicants, for a Financial Distribution company, who will be able to source business for the company within 3 months post their 7 day corporate training.
 - In this project the predictions are made using **LightGBM**. Other models like **XGBoost** and **AdaBoost** was also used for experimentation.
 - A **Power BI** Dashboard is developed to capture the past trends in agent recruitment and derive meaningful insights from the Data.
 
