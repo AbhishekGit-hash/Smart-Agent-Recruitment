@@ -81,7 +81,7 @@ The difference between the number of products sold between busniess sourced and 
 - In this step 4 extra numerical features were created :
   - `Agent_Age` : The age of the Applicant / agent as on Application Receipt Date.
   - `Manager_Age` : The age of the Manager as on Application Receipt Date.
-  - `Manager_Exp` : The work experience of Manager in FinMan organization.
+  - `Manager_Exp` : The work experience of Manager in the company.
   - `App_Order_Percent` : Percentile of the position of the Application Received calculated at a daily level.
 - The categorical features (Applicant_Gender, Applicant_Occupation) were **One Hot Encoded** and (Manager_Joining_Designation, Manager_Current_Designation) were **Label Encoded**.
 
