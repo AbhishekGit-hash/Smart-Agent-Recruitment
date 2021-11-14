@@ -51,8 +51,8 @@ The project has been divided into the following steps :
 In this step features having missing values and outliers, target variable distribution, numerical feature distribution, categorical feature distribution, Univariate and Bivariate Analysis was performed.<br>
 **Some of the data insights are given below**. _(For the detail EDA please refer to the [ipyb notebook](https://github.com/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb))_
 - During univariate Analysis, it is oberserved that all the numerical features had skewness.<br><br>
-<img src="dashboard%20images/Univariate_Analysis_1.png" height="300" align="middle"><br><br>
-<img src="dashboard%20images/Univariate_Analysis_2.png" height="300" align="middle"><br><br>
+<img src="dashboard%20images/Univariate_Analysis_1.png" height="250" align="middle"><br><br>
+<img src="dashboard%20images/Univariate_Analysis_2.png" height="250" align="middle"><br><br>
 
 - The features Manager_Business and Manager_Business2 are highly coorelated. Similarly a high correlation is observed between Manager_Num_Products and Manager_Num_Products2.
 **In order to remove multi-colinearity the columns Manager_Business2 and Manager_Num_Products2 will be dropped**.<br><br>
@@ -75,7 +75,7 @@ The difference between the number of products sold between busniess sourced and 
 - **19** features out of **23** had missing values.
 - The Arbitray Value imputation is done for handling missing values in the numerical, categorical and date columns / features.
 - The date columns were converted to proper datetime data type.
-- Irrelevnt features were dropped from train and test datasets.
+- Irrelevent features were dropped from train and test datasets.
 
 ### 3. Feature Engineering
 - In this step 4 extra numerical features were created :
