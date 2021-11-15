@@ -12,8 +12,8 @@ The Overview Dashboard and the Applicant Details Dashboard for FinMan Agent Recr
 <img src="dashboard%20images/Applicant%20Details%20Dashboard.PNG" height="450" align="middle"><br> 
 
 ## :file_folder: Code
-- [Smart Agent Recruitment.ipnyb](https://github.com/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb)
-- [Smart Agent Recruitment.ipynb (nbviewer)](https://nbviewer.org/github/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb)
+- [Smart Agent Recruitment.ipynb](https://github.com/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb)
+- [Smart Agent Recruitment.ipynb (nbviewer)](https://nbviewer.org/github/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb) (_Click on this link if the notebook doesnot load on Github._)
 
 
 ## :hourglass: Dataset
@@ -49,7 +49,7 @@ The project has been divided into the following steps :
 ### 1. Exploratory Data Analysis
 
 In this step features having missing values and outliers, target variable distribution, numerical feature distribution, categorical feature distribution, Univariate and Bivariate Analysis was performed.<br>
-**Some of the data insights are given below**. _(For the detail EDA please refer to the [ipyb notebook](https://github.com/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb))_
+**Some of the data insights are given below**. _(For the detail EDA please refer to the [ipynb notebook](https://nbviewer.org/github/AbhishekGit-hash/Smart-Agent-Recruitment/blob/master/Smart%20Agent%20Recruitment.ipynb))_
 - During univariate Analysis, it is oberserved that all the numerical features had skewness.<br><br>
 <img src="dashboard%20images/Univariate_Analysis_1.png" height="250" align="middle"><br><br>
 <img src="dashboard%20images/Univariate_Analysis_2.png" height="250" align="middle"><br><br>
